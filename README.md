@@ -1,3 +1,34 @@
+I used SolidJS and Tailwind
+
+SolidJS because 
+    - state-management is solved inside framework and very straightforword-simple
+    - overall logic great
+    - super fast 
+    - lightweight
+
+Tailwind because
+    - very usefull for serious projects
+
+
+
+
+
+
+.
+.
+.
+____________________________________________________________________
+
+.
+.
+.
+
+
+
+
+
+
+
 I completed the Part 1 fully
 
 
@@ -56,9 +87,16 @@ Though must agree design could be better but as a first interaction with company
 
 
 
-
-
+.
+.
+.
 ____________________________________________________________________
+
+.
+.
+.
+
+
 
 
 Part 2
