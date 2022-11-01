@@ -1,0 +1,1 @@
+export const WOHO = '1'
