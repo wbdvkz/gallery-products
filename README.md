@@ -1,6 +1,7 @@
 I used SolidJS and Tailwind
 
 --- SolidJS because 
+
     - state-management is solved inside framework and very straightforward-simple
 
     - overall logic great
@@ -13,6 +14,7 @@ I used SolidJS and Tailwind
 
 
 --- Tailwind because
+
     - very usefull for serious projects
 
 
@@ -39,6 +41,7 @@ I completed the Part 1 fully
 
 
 --- For 1st bullet
+
     I mocked fetch function and showed fallback(Loading...)
 
     Loading takes 2 seconds
@@ -51,6 +54,7 @@ I completed the Part 1 fully
 
 
 --- For 2 bullet
+
     I displayed skus as given in example 
 
     Made 2 item counts 4 and 6
@@ -59,6 +63,7 @@ I completed the Part 1 fully
 
 
 --- For 3 bullet
+
     Added Gallery and List views 
         with appropriate buttons   
             which are highlighted when hovered and chosen
@@ -68,6 +73,7 @@ I completed the Part 1 fully
 
 
 --- For 4 bullet
+
     Created right pannel as in the example
 
     Added 3 tabs
@@ -85,6 +91,10 @@ I completed the Part 1 fully
 
     Added buttons
         Buttons give alerts
+
+
+
+
 
 
 Overall, I completed all the tasks given 
