@@ -1,12 +1,12 @@
 I used SolidJS and Tailwind
 
-SolidJS because 
+--- SolidJS because 
     - state-management is solved inside framework and very straightforward-simple
     - overall logic great
     - super fast 
     - lightweight
 
-Tailwind because
+--- Tailwind because
     - very usefull for serious projects
 
 
